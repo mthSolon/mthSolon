@@ -22,7 +22,7 @@ Tenho experiência em:
 - ![python](https://img.shields.io/badge/-PYTHON-black?style=for-the-badge&logo=python)
 - ![sql](https://img.shields.io/badge/-SQL-white?style=for-the-badge&logo=postgresql) 
 
-e um pouco em 
+e um pouco em:
 - ![java](https://img.shields.io/badge/-JAVA-orange?style=for-the-badge&logo=java)
 
 As principais bibliotecas que utilizo são:
