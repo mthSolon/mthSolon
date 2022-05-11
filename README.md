@@ -3,9 +3,9 @@
 Sempre fui apaixonado por tecnologia e a área de Ciência de Dados é a que mais me chama atenção. 
 
 Estou sempre procurando evoluir e estudar, pois essa 
-área não para! 🤣
+área não para!
 
-Meus interesses variam demais 😆, 
+Meus interesses variam demais, 
 mas meus principais são — além de computação — 
 Filosofia, Matemática, História e Geopolítica!
 
